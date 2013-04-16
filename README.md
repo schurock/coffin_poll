@@ -3,10 +3,6 @@ coffin_poll
 
 django poll application
 
-# coffin Poll App
-
-to check out django
-
 ## Setup
 
 clone repo
